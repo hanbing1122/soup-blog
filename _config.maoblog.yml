@@ -7,12 +7,9 @@ menu:
   Tags: /tags
   Search:
 # Search 注意和 header.ejs 中匹配
-  About: /about
-#  Contact: /contact
-#  Archives: /archives
 
 copyright:
-  name: mao
+  name: Soup
 
 license:
   name: CC-BY-NC-SA 4.0
@@ -34,7 +31,7 @@ mermaid: ## mermaid url https://github.com/knsv/mermaid
   theme: default
 
 giscus:
-  enable: true
+  enable: false
 
 search:
   path: search.xml

@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Soup's Blog
-subtitle: '代码与生活'
-description: '技术博客，记录学习与思考'
+title: soup的blog
+subtitle: '自留地'
+description: ''
 keywords: tech,code,blog
 author: Soup
 language: zh-CN
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: maoblog
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

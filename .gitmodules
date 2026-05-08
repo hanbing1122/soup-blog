@@ -1,0 +1,3 @@
+[submodule "themes/maoblog"]
+	path = themes/maoblog
+	url = https://github.com/muzuiyo/hexo-theme-maoblog.git

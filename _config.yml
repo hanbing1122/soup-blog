@@ -102,5 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/hanbing1122/soup-blog.git
+  repo: https://hanbing1122@github.com/hanbing1122/soup-blog.git
   branch: gh-pages
